@@ -1,0 +1,11 @@
+{
+	"#page1": {
+		"flexProps": {
+			"justifyContent": "SPACE_BETWEEN",
+			"alignItems": "STRETCH"
+		},
+		"paddingBottom": 20,
+		"paddingLeft": 0,
+		"paddingRight": 0
+	}
+}
