@@ -21,6 +21,15 @@ end-to-end, fully in the cloud.
 Welcome to the world of mobility!
 Smartface Team.
 
+## Screen shots
+
+### Portrait Mode
+<img src="https://user-images.githubusercontent.com/25839586/119335417-05e56200-bc95-11eb-8abd-0bcdd08dd7ce.jpeg" width="400" />
+
+### landscape Mode
+<img src="https://user-images.githubusercontent.com/25839586/119335408-041b9e80-bc95-11eb-8335-0ecf567c1ff4.jpeg" width="600" />
+
+
 ## Build or watch a workspace in a computer
 - Watch Mode
 ``` npm run watch```
